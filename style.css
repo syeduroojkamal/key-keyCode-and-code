@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: bisque;
+}
+.boxes {
+  margin-top: 40vh;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  padding: 1rem 4rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+}
+
+.attribute {
+  text-align: center;
+}
+.pressedKey {
+  border-style: solid;
+  background-color: aliceblue;
+  padding: 1rem 4rem;
+}
